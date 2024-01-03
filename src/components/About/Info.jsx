@@ -6,7 +6,7 @@ export default function Info() {
         <div className="about__box">
             <i className='bx bx-award about__icon'></i>
             <h3 className="about__title">Academics</h3>
-            <span className="about__subtitle">8.43 Average CGPA</span>
+            <span className="about__subtitle">8.49 Average CGPA</span>
         </div>
         
         <div className="about__box">

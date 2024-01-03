@@ -16,6 +16,13 @@ function Backend() {
                 </div>
                 <div className="skills__data">
                     <i className='bx bx-badge-check'/>
+                    <div>
+                        <h3 className="skills__name">Express Js
+                        </h3>
+                    </div>
+                </div>
+                <div className="skills__data">
+                    <i className='bx bx-badge-check'/>
 
                     <div>
                         <h3 className="skills__name">Mysql
@@ -27,6 +34,15 @@ function Backend() {
 
                     <div>
                         <h3 className="skills__name">Mongodb
+                        </h3>
+                    </div>
+                </div>
+                
+                <div className="skills__data">
+                    <i className='bx bx-badge-check'/>
+
+                    <div>
+                        <h3 className="skills__name">Git
                         </h3>
                     </div>
                 </div>

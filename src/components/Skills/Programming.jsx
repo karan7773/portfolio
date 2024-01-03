@@ -24,6 +24,15 @@ function Programming() {
                         </h3>
                     </div>
                 </div>
+
+                <div className="skills__data">
+                    <i className='bx bx-badge-check'/>
+
+                    <div>
+                        <h3 className="skills__name">Python
+                        </h3>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
